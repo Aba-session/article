@@ -10,6 +10,7 @@ import java.util.Set;
             Set<Class<?>> h = new HashSet<>();
             h.add( HelloWorld.class );
             return h;
+            // comment git commit
         }
     }
 
